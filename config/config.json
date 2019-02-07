@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "economizeplusdbuser",
+    "password": "oG3EwD5vVHl9VfHR",
+    "database": "economizeplus_admin_devel",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "port": "3306"
+  },
+  "test": {
+    "username": "economizeplusdbuser",
+    "password": "oG3EwD5vVHl9VfHR",
+    "database": "economizeplus_admin_devel",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "port": "3306"
+  },
+  "production": {
+    "username": "economizeplusdbuser",
+    "password": "oG3EwD5vVHl9VfHR",
+    "database": "economizeplus_admin_devel",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "port": "3306"
+  }
+}
